@@ -1,1 +1,1 @@
-# ResponsiveDesignJS
+# Responsive-Design-Using-Java-script
